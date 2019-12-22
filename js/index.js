@@ -1,4 +1,4 @@
-var randomNumber1 = Math.round(Math.random()) * 5 + 1; // 1 through 6
+var randomNumber1 = Math.round(Math.random() * 5 + 1); // 1 through 6
 
 var randomNumber2 = Math.round(Math.random() * 5 + 1); // 1 through 6
 
